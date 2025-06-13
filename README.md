@@ -28,4 +28,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 *Note: For educational purposes only.*
 
-Update: Broken anchors
+
+
+Update:  06/13/2025 Phone references
