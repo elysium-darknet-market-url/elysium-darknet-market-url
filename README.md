@@ -48,4 +48,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  14.07.2025 04:12
+
+
+Update:  18.07.2025 Corrected broken authentication guide links
