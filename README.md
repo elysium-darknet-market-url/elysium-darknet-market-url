@@ -50,4 +50,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  18.07.2025 Corrected broken authentication guide links
+
+
+Update: url is back up and running
