@@ -52,4 +52,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update: url is back up and running
+
+
+Update:  24.07.2025 11:48
