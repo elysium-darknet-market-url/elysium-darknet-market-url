@@ -68,4 +68,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  09/18/2025
+
+
+Update:  Wednesday 01 October 2025 Link is now clickable and functioning
